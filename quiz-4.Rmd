@@ -1,0 +1,8 @@
+---
+title: "Quiz 4 Objectives"
+output: html_document
+---
+
+Quiz 4 will assess the learning objectives listed below.
+
+Students will be able to:

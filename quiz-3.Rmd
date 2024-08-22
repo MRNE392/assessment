@@ -1,0 +1,8 @@
+---
+title: "Quiz 3 Objectives"
+output: html_document
+---
+
+Quiz 3 will assess the learning objectives listed below.
+
+Students will be able to:

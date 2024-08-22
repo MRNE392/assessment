@@ -1,0 +1,8 @@
+---
+title: "Quiz 5 Objectives"
+output: html_document
+---
+
+Quiz 5 will assess the learning objectives listed below.
+
+Students will be able to:

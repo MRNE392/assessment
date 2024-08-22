@@ -1,6 +1,7 @@
 ---
 title: "Quiz 4 Objectives"
 output: html_document
+css: style.css
 ---
 
 Quiz 4 will assess the learning objectives listed below.

@@ -1,10 +1,8 @@
 ---
-title: "Informal knot tying quiz"
+title: "Knot tying learning objectives"
 output: html_document
 css: style.css
 ---
-
-This informal (ungraded) quiz will assess the learning objectives listed below.
 
 Students will be able to tie the following knots in an application similar to those listed:
 

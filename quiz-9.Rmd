@@ -1,9 +1,0 @@
----
-title: "Quiz 9 Objectives"
-output: html_document
-css: style.css
----
-
-Quiz 9 will assess the learning objectives listed below.
-
-Students will be able to:

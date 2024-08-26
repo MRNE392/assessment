@@ -1,9 +1,0 @@
----
-title: "Quiz 11 Objectives"
-output: html_document
-css: style.css
----
-
-Quiz 11 will assess the learning objectives listed below.
-
-Students will be able to:

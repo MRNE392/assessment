@@ -1,9 +1,0 @@
----
-title: "Quiz 1 Objectives"
-output: html_document
-css: style.css
----
-
-Quiz 1 will assess the learning objectives listed below.
-
-Students will be able to:

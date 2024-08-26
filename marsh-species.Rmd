@@ -1,9 +1,18 @@
 ---
-title: "Informal marsh species ID"
+title: "Marsh species ID learning objectives"
 output: html_document
 css: style.css
 ---
 
-The informal marsh species ID quiz will assess the learning objectives listed below.
+Students will be able to identify the following marsh vegetation species using scientific nomenclature:
 
-Students will be able to:
+* *Spartina alterniflora* (saltmarsh cordgrass)
+* *Spartina patens* (salt meadow hay)
+* *Distichlis spicata* (salt grass)
+* *Juncus roemerianus* (black needle rush)
+* *Schoenoplectus americanus* (aka *Scirpus americanus*) (three-square)
+* *Juniperus virginiana* (red cedar)
+* *Pinus taeda* (loblolly pine)
+* *Iva frutescens* (marsh elder)
+* *Baccharis halimifolia* (groundsel)
+* *Morella cerifera* (wax myrtle)

@@ -1,18 +1,19 @@
 ---
 title: "Knot tying learning objectives"
-output: html_document
+output: 
+  html_document:
+    self_contained: FALSE
 css: style.css
 ---
 
-Students will be able to tie the following knots in an application similar to those listed:
+Students will be able to tie the following knots in an application similar to those listed (instructional videos provided below):
 
 * Bowline (attach a line to an anchor)
-* Cleat hitch (cleat off a boat's dock line)
-* Clove hitch and half hitch (secure a line to a piling)
-* Figure eight knot (stop a line from passing through a concrete anchor hole)
+* Half hitch (secure a knot)
 * Lobster buoy hitch (secure a line to a buoy)
 
-The following websites have good tutorials:
-[Discover boating](https://www.discoverboating.com/resources/boating-knots) has video tutorials for the first four knots. [This YouTube video](https://www.youtube.com/watch?v=1fi8OdQ1Iss) shows how to do the lobster buoy hitch.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q9NqGd7464U?si=O1-REFN94eq1L4WP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8ewvDw9iDh8?si=rDVHZDhfMMU5rMFG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1fi8OdQ1Iss?si=vwZUnJfslG6LvXK6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
